@@ -1,4 +1,4 @@
-const shapes = require('./shape.js')
+const shapes = require('./shape.js');
 
 class square extends shapes {
     constructor(shapeColor, text, textColor) {
